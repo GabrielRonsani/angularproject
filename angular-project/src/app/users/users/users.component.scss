@@ -1,0 +1,27 @@
+table {
+  width: 100%;
+  background-color: white;
+}
+mat-toolbar {
+  background-color: #1565C0;
+}
+mat-card {
+  background-color: white;
+}
+mat-spinner {
+  color: #1565C0;
+}
+th {
+  color: black;
+  font-weight: bold;
+}
+td {
+  color: black;
+}
+.loading-spinner {
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
